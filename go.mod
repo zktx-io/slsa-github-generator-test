@@ -1,4 +1,4 @@
-module github.com/slsa-framework/slsa-github-generator
+module github.com/zktx-io/slsa-github-generator-test
 
 go 1.21
 
